@@ -99,5 +99,11 @@ namespace CapaVista_Seguridad
             AsignacionPerfiles frmasigusu = new AsignacionPerfiles();
             frmasigusu.ShowDialog();
         }
+
+        private void SeguridadBtnAplicaciones_Click(object sender, EventArgs e)
+        {
+            FrmMantenimientoAplicacion frmasigusu = new FrmMantenimientoAplicacion();
+            frmasigusu.ShowDialog();
+        }
     }
 }

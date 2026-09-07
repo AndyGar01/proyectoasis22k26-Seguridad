@@ -247,4 +247,22 @@
   <data name="navegadorSeguridad1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\navegadorSeguridad1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Buscar1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Buscar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_modificarN" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_modificarN.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btnNuevo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btnNuevo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Reporte1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Reporte.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_salirN" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_salirN.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btn_guardarN" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btn_guardarN.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>
